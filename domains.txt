@@ -1,0 +1,3 @@
+google.com
+openai.com
+example.bankan.local
